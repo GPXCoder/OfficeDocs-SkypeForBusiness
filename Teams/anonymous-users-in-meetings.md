@@ -56,7 +56,7 @@ The organization level anonymous meeting join setting must be turned on for anyo
 To configure anonymous meeting join for the organization
 1. Go to the [Teams admin center](https://admin.teams.microsoft.com).
 
-1. In the left navigation, go to **Meetings** > **Meeting settings**.
+1. In the left navigation, go to **Settings & Policies** > **Meetings**.
 
 1. Under **Participants**, set **Anonymous participants can join a meeting** to **On** (recommended) or **Off**.
 
@@ -117,7 +117,7 @@ To configure app access for anonymous meeting participants
 
 1. Go to the [Teams admin center](https://admin.teams.microsoft.com).
 
-1. In the left navigation, go to **Meetings** > **Meeting settings**.
+1. In the left navigation, go to **Settings & Policies** > **Meetings**.
 
 1. Under **Participants**, set  **Anonymous participants can interact with apps in meetings** to **On** or **Off**.
 
